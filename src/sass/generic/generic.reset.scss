@@ -78,7 +78,7 @@ iframe,
 embed,
 object {
   max-width: 100%; /* [1] */
-  // font-style: italic; /* [2] */ /* (Opinionated, added by mavix21) */
+  font-style: italic; /* [2] */ /* (Opinionated, added by mavix21) */
   display: block; /* [3] */ /* (Opinionated, added by mavix21) */
 }
 audio:not([controls]) {
