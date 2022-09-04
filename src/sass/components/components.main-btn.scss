@@ -1,0 +1,16 @@
+@use "sass:color";
+
+.main-btn {
+  display: flex;
+  background-color: var(--primary-dark-cyan);
+  color: var(--neutral-white);
+  justify-content: center;
+  align-items: center;
+  padding-block: 1.2em;
+  gap: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.main-btn:hover {
+  background-color: color.scale(hsl(158, 36%, 37%), $lightness: -50%);
+}

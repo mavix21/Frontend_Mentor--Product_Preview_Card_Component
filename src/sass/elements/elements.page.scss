@@ -1,0 +1,8 @@
+@use "../abstracts/" as *;
+
+body {
+  background-color: var(--primary-cream);
+  font-family: var(--font-montserrat);
+  font-size: rem(14);
+  line-height: 1;
+}
