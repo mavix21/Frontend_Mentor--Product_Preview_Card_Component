@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://product-preview-card-component-mavix.netlify.app/)
+- Live Site URL: [Click here to see my solution in your browser!](https://product-preview-card-component-mavix.netlify.app/)
 
 ## My process
 
