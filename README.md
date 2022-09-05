@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution at frontendmentor.io](https://www.frontendmentor.io/solutions/product-preview-card-component-using-sass-bem-and-itcss-JQif41HVUx)
 - Live Site URL: [Click here to see my solution in your browser!](https://product-preview-card-component-mavix.netlify.app/)
 
 ## My process
